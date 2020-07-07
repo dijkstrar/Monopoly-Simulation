@@ -9,4 +9,4 @@ For all throws the number of passages for each spot will be recorded
 In the end the percentage of time spent on a spot will be displayed on the board.
 
 The output can look like the following:
-[My image](dijkstrar.github.com/Monopoly-Simulation/img/simulation.jpg)
+[My image](dijkstrar.github.com/Monopoly-Simulation/img/simulation.png)
